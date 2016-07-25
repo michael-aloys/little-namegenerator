@@ -105,9 +105,9 @@ work in the following form on your website, in your credits, etc.:
 >
 >https://github.com/michael-aloys/little-namegenerator
 >
->https://www.little-factory-games.de
+>https://www.little-factory-games.com
 
-![CC Logo](https://i.creativecommons.org/l/by/4.0/80x15.png)
+[![CC Logo](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
 
 ## TODO
 Some improvements that are still in the back of our mind, but which we
